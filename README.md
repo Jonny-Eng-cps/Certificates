@@ -9,3 +9,4 @@ This repository is devided in four repositories:
 4. Ladder Logic
 
 each of which contains the certificate and/or the badge.
+The personal data contained in this repository may be processed in compliance with the applicable data protection laws.
