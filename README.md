@@ -7,6 +7,7 @@ This repository is devided in four repositories:
 2. Python Essentials 1
 3. Python Essentials 2
 4. Ladder Logic
+5. Badges of English course for IELTS certification
 
 each of which contains the certificate and/or the badge.
 The personal data contained in this repository may be processed in compliance with the applicable data protection laws.
